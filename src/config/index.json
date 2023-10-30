@@ -1,0 +1,388 @@
+{
+  "company": {
+    "name": "LINEで賃貸",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "About",
+      "mobile_name": "LINEで賃貸とは",
+      "href": "about"
+    },
+    {
+      "name": "Case",
+      "mobile_name": "初期費用の例",
+      "href": "case"
+    },
+
+    {
+      "name": "Why",
+      "mobile_name": "仲介手数料が0円の理由",
+      "href": "why"
+    },
+    {
+      "name": "Service",
+      "mobile_name": "サービス概要",
+      "href": "service"
+    },
+    {
+      "name": "FAQ",
+      "mobile_name": "よくある質問",
+      "href": "faq"
+    }
+  ],
+  "callToAction": {
+    "text": "お部屋を送る",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "自分でお部屋を探して初期費用を最小限に",
+    "sendBtnTitle": "今すぐお部屋を送る",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "about": {
+    "title": "LINEで賃貸",
+    "steps": [
+      {
+        "title": "お部屋を送る",
+        "content": "​賃貸物件サイトなどで見つけた気になるお部屋のURLをメールかLINEで送るだけ。<br>1回につき3物件までOK",
+        "img": "about_step_01.png"
+      },
+      {
+        "title": "空室確認・手数料診断",
+        "content": "空室確認や仲介手数料が</span>いくらになるかをLINEで賃貸が確認。<br>仲介手数料は、<br><span class='text-color-third font-bold'><span class='text-3xl'>0</span>円</span><span> or </span><span class='text-color-third font-bold'><span class='text-3xl'>2,5</span>万円</span>（税込）",
+        "img": "about_step_02.png"
+      },
+      {
+        "title": "お申込み・ご契約",
+        "content": "申込みや契約は来店不要でWEBでのご対応が可能。<br>初期費用もクレジットカード払い*が可能です。",
+        "img": "about_step_03.png"
+      }
+    ]
+  },
+  "cases": {
+    "title": "<span class='text-color-primary'>初期費用</span>を<span class='text-color-primary'>最小限</span>に抑えてお届け。",
+    "subtitle1": "サービス手数料や別名目を上乗せすることは一切ありません。<br>その他、仲介会社独自でご紹介しているオプションサービス*の上乗せもありません。",
+    "subtitle2": "*管理会社指定のオプションサービスの場合は実費料金が発生します。",
+    "firstCompare": {
+      "title": "​家賃8万円、敷金・礼金・仲介手数料が1ヶ月の場合",
+      "title_img": "case_compare_title_1.png",
+      "title_img_sm": "case_compare_title_1_sm.png",
+      "table1": {
+        "title": "一般的な初期費用",
+        "rows": [
+          {
+            "key": "前家賃",
+            "value": "<span class='text-2xl font-bold'>80,000</span> <span class='font-bold'>円</span>"
+          },
+          {
+            "key": "敷金",
+            "value": "<span class='text-2xl font-bold'>80,000</span> <span class='font-bold'>円</span>"
+          },
+          {
+            "key": "礼金",
+            "value": "<span class='text-2xl font-bold'>80,000</span> <span class='font-bold'>円</span>"
+          },
+          {
+            "key": "仲介手数料",
+            "value": "<span class='text-2xl font-bold'>88,000</span> <span class='font-bold'>円</span>"
+          }
+        ]
+      },
+      "table2": {
+        "title": "LINEで賃貸の初期費用",
+        "rows": [
+          {
+            "key": "前家賃",
+            "value": "<span class='text-2xl font-bold'>80,000</span> <span class='font-bold'>円</span>"
+          },
+          {
+            "key": "敷金",
+            "value": "<span class='text-2xl font-bold'>80,000</span> <span class='font-bold'>円</span>"
+          },
+          {
+            "key": "礼金",
+            "value": "<span class='text-2xl font-bold'>80,000</span> <span class='font-bold'>円</span>"
+          },
+          {
+            "key": "仲介手数料",
+            "value": "<span class='text-4xl font-bold text-color-third'>0</span> <span class='font-bold text-color-third'>円</span>"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "content": "※その他 諸費用として鍵交換料・火災保険料等がかかります。"
+        },
+        {
+          "content": "※オーナー様から広告料がない場合は、仲介手数料25,000円（税込）がかかります。"
+        }
+      ]
+    },
+    "secondCompare": {
+      "title": "賃貸ポータルサイトの場合",
+      "title_img": "case_compare_title_2.png",
+      "table1": {
+        "title": "一般的な初期費用",
+        "rows": [
+          {
+            "key": "仲介手数純",
+            "value": "賃料の1ヶ月分など"
+          },
+          {
+            "key": "ー別名目の費用",
+            "value": "<span>オプションサービス等の<br>不要な上乗せの可能性も</span>"
+          },
+          {
+            "key": "おとり物件",
+            "value": "<span>すでに決まっている<br>可能性のお部屋も</span>"
+          },
+          {
+            "key": "ご紹介方法",
+            "value": "とにかく一度来店を勧められる"
+          }
+        ]
+      },
+      "table2": {
+        "title": "LINEで賃貸の場合",
+        "rows": [
+          {
+            "key": "仲介手数純",
+            "value": "<span class='font-bold'><span class='text-color-third text-4xl'>0</span><span> 円 or </span><span class='text-color-third text-4xl'>2,5</span> 万円</span>"
+          },
+          {
+            "key": "ー別名目の費用",
+            "value": "<span class='text-2xl font-bold'>ないです</span>"
+          },
+          {
+            "key": "おとり物件",
+            "value": "<span class='text-2xl font-bold'>ないです</span>"
+          },
+          {
+            "key": "ご紹介方法",
+            "value": "<span class='text-xl font-bold'>物件情報を送るだけ</span>"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "content": "※その他 諸費用として鍵交換料・火災保険料等がかかります。"
+        },
+        {
+          "content": "※オーナー様から広告料がない場合は、仲介手数料25,000円（税込）がかかります。"
+        }
+      ]
+    }
+  },
+  "why": {
+    "title": "オーナー様から広告料があるお部屋は、<span class='text-color-third font-bold'>仲介手数料を<span class='text-4xl'>0</span>円</span>でご紹介。",
+    "firstComment": "一般的に不動産会社は、オーナー様からいただく広告料とお客様からいただく仲介手数料で成り立っていますが、LINEで賃貸はオーナー様からいただく広告料だけで運営し、お客様の負担を最小限に抑えることが可能です。<br>また、LINEで賃貸は実店舗を持たないことで店舗コストの削減や、来店・接客を不要とした業務のシステム化を図り、お客様に無駄な費用をいただくことなく、最大限の賃貸サービスを提供することができるようになりました。<br>但し、オーナー様から広告料がないお部屋も中にはあります。<br>その場合はサイト運営上、家賃がいくらであっても一律2,5万円（税込）をご負担いただいております。",
+    "whyInfoCard1": {
+      "title": "オーナー様から広告料がある場合",
+      "leftImg": "why_card_woman.png",
+      "leftImgTitle": "お客様",
+      "rightImg": "why_card_man.png",
+      "rightImgTitle": "オーナー様",
+      "bottomTitle": "仲介手数料 <span class='text-4xl text-color-third'>0</span> 円"
+    },
+    "whyInfoCard2": {
+      "title": "オーナー様から広告料がない場合",
+      "leftImg": "why_card_woman.png",
+      "leftImgTitle": "お客様",
+      "rightImg": "why_card_man.png",
+      "rightImgTitle": "オーナー様",
+      "bottomTitle": "仲介手数料 <span class='text-4xl text-color-third'>2,5</span> 万円",
+      "bottomTitleTopTip": "(税込)"
+    },
+    "arrowImg": "why_card_arrow.png",
+    "secondComment": "LINEで賃貸はお客様に無駄な費用をいただくことなく気に入ったお部屋に入居いただくことを最優先としています。<br>サイトコンセプトを崩さないようLINEで賃貸だけが得をするようなお部屋に誘導をしません。<br>その為<span class='text-color-primary font-bold'>ご自身でお部屋を探された分</span>、お客様に低コストな初期費用でご満足いただける賃貸サービスを提供させていただきます。",
+    "recommendTitle": "こんな方にオススメ",
+    "feedbacks": [
+      {
+        "img": "why_feedback_avatar_1.png",
+        "comment": "不動産会社が勧めてくるお部屋は自分が物件サイトで見ていたお部屋ばかり。それなら自分で探しているのと変わらないと思った方。",
+        "content": "LINEで賃貸なら、その物件サイトで見ていたお部屋を仲介手数料0円 or 2,5万円てご紹介することができます。",
+        "bottomTip": "※一部、特定の会社てし力、扱えないお部屋がごさいます。"
+      },
+      {
+        "img": "why_feedback_avatar_2.png",
+        "comment": "​自分が物件サイトで見つけたお部屋なのに、不動産会社に仲介手数料を1ヶ月分請求された。ほとんど自分で探したのにとモヤモヤした方。​",
+        "content": "LINEで賃貸は、そんな方にピッタリです。ご自身で探された分、初期費用を最小限に抑えてお届けします。",
+        "bottomTip": "※広告料がないお部屋は仲介手数料2,5万円（税込）です。"
+      },
+      {
+        "img": "why_feedback_avatar_3.png",
+        "comment": "不動産会社に行く時間もなく何回も引越しをしているから間取りを見れば大体分かる。それなのに来店するよう急かされてうっとうしく感じた方。",
+        "content": "LINEで賃貸なら、来店・接客が不要なため気になるお部屋を送っていただき、空いていればすぐWEB等で申込手続きが可能です。",
+        "bottomTip": "※お部屋によって異なる場合があります。"
+      },
+      {
+        "img": "why_feedback_avatar_4.png",
+        "comment": "他の仲介手数料無料のサービスに問い合わせたら、違うお部屋ばかり紹介してこられた。結局、希望のお部屋は空いていないと言われてがっかりした方。",
+        "content": "LINEで賃貸は、お部屋のご提案をしない賃貸サービス。その為、不動産会社が得をしたいお部屋を勧めたりすることはありません。",
+        "bottomTip": "※お問い合わせ後、最新の空室情報を確認します。"
+      }
+    ]
+  },
+  "sendRoom": {
+    "title": "さっそくお部屋を送る​",
+    "subtitle": "現在、お問い合わせが集中しており、タイミングによってはお返事にお時間をいただく場合があります。あらかじめご了承ください。",
+    "leftSmallTitle": "賃貸物件サイトに完全対応​​​",
+    "leftComment": "気になるお部屋が掲載されているホームページのアドレス(URL)をコピーして、メールかLINEでお送りください。",
+    "leftBottomTip": "※東京23区・その近郊エリアがサービス対象エリアになります。",
+    "rightGuideImg": "sendroom.png",
+    "lineTab": {
+      "leftTopComment": "<a class='underline-offset-4' href='#'>利用規約</a>と<span class='underline-offset-4' href='#'>プライバシーポリシー</span>にご同意いただいた上、LINEで賃貸のLINEアカウントに気になるお部屋のアドレス(URL)と、ご入居希望日をお送りください。<br />最新の空室状況を確認してご連絡します。",
+      "leftBottomComment": "まずは<span class='text-color-third'>友だち追加</span>をお願いします。<br />クリックするとQRコードが表示されます。",
+      "rightImg": "tab_line_chat_screen.png",
+      "lineBtnRightComment": "＼ LINE始めました！／",
+      "lineBtnImg": "btn_go_to_line.png",
+      "lineUrl": "",
+      "guides": {
+        "title": "LINEで賃貸からのお願いごと",
+        "contents": [
+          {
+            "value": "お送りいただく物件数は1回のお問い合わせにつき、3物件まででお願いしております。"
+          },
+          {
+            "value": "ご入居希望日が2カ月後以降の方は期日が近づきましたらお送りください。"
+          },
+          {
+            "value": "特定の不動産会社でしか扱えないお部屋はご対応できません。"
+          },
+          {
+            "value": "​他の不動産会社で交渉中・申込中のお部屋はご遠慮ください。"
+          }
+        ]
+      }
+    }
+  },
+  "faq": {
+    "contents": [
+      {"question": "なぜ、仲介手数料が2,5万円の場合があるの？", "answer": "一般的に不動産仲介会社は、物件オーナー様からの広告料とお客様からの仲介手数料で成り立っています。<br>お客様にお部屋を探していただくことにより営業コストを抑えることができ、物件オーナー様の広告料だけで運営することが可能となりました。<br>ただし、一部、物件オーナー様からの広告料がない物件もあり、その場合は運営上2,5万円（税込）をいただいております。"},
+      {"question": "仲介手数料が安い分、何かウラがあるのでは？", "answer": "「うまい話にはウラがある」と言いますが、従来不動産会社はウラで物件オーナー様から広告料をいただき、オモテでお客様に仲介手数料をいただくという双方からもらい、多くの利益を得ています。<br>そこでLINEで賃貸は、不動産会社だけが得をせずお客様の負担を最小限に抑えられるよう広告料があるお部屋は仲介手数料を0円にしました。"},
+      {"question": "どんなお部屋でも紹介できるの？", "answer": "他社サイトに掲載されているお部屋であればご紹介可能です。<br>LINEで賃貸では大手不動産会社と同じ物件データベースを使っておりますので、紹介物件は基本的にどこの不動産会社でも取扱の件数に差はありません。<br>但し、一部特定の不動産会社でしか扱えないお部屋があります。"},
+      {"question": "オススメのお部屋は紹介してくれるの？", "answer": "お客様ご自身で探していただくことにより最小限の初期費用をお届けすることが可能となる為、こちらから違うお部屋を勧める事はありません。<br>また、時にお客様の満足度より不動産会社が得する物件をご紹介してしまう事があるので、サイトコンセプトを崩さないようこちらからご提案をしていない理由でもあります。"},
+      {"question": "内見をしたい場合はどうしたら良いの？", "answer": "お部屋の申込手続き後、内見希望の場合はスタッフにお申し下さい。スタッフから内見の可能な日時をお知らせしますので、お客様のご都合の良い日程の中から内見のご予約をお願いします。当日、現地にてスタッフと待ち合わせいただき、内見となります。"},
+      {"question": "初期費用の交渉はできるの？", "answer": "完全WEB型だからといって手は抜きません。<br>お部屋の募集状況次第ではありますが、適切なタイミングや交渉で条件を叶えられるよう努めさせていただきます。"},
+      {"question": "他の不動産会社で紹介されたお部屋も対応できるの？", "answer": "取扱可能なので一度ご相談ください。<br>但し、すでにそのお部屋で交渉中や申込中の場合はお客様の契約に支障をきたす場合があるため、対応できません。"},
+      {"question": "申込みをしたいお部屋が合った場合はどうすればいいの？", "answer": "来店・接客（内見）が不要なため、気になるお部屋が空いていればすぐにWEB等で申込手続きが可能です。<br>ご契約手続きもお部屋によって異なる場合がありますが、WEBや郵送等でのご対応も可能です。"}
+    ]
+  },
+  "footer": {
+    "firstLinks": [
+      {"title": "LINEで賃貸とは", "url": "/"},
+      {"title": "初期費用の例", "url": "/"},
+      {"title": "​仲介手数料が0円の理由", "url": "/"},
+      {"title": "​サービス概要", "url": "/"},
+      {"title": "​よくある質問​", "url": "/"}
+    ],
+    "secondLinks": [
+      {"title": "​利用規約​", "url": "/terms"},
+      {"title": "​プライバシーポリシー​", "url": "/privacypolicy"},
+      {"title": "仲介手数料について​", "url": "/brokerage-fee"}
+    ],
+    "firmSummary": [
+      {"content": "サービス運営元：LINEで賃貸"},
+      {"content": "業務提携先：株式会社S-KH"},
+      {"content": "免許：東京都知事（1）第109197号"},
+      {"content": "東京都北区田端4-2-7 佐藤ビル101"}
+    ],
+    "contacts": [
+      {"content": "LINEで賃貸お客様サポート"},
+      {"content": "support@uberhome.info"}
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "service": {
+    "summary": [
+      {
+        "title": "どのポータルサイトにも対応",
+        "comment": "物件サイトに掲載されているお部屋のURLをメールかLINEで送るだけで空室確認や手数料診断までスムーズに行うことができます。",
+        "bottomComment": "※1回につき、最大3物件まででお願いしております。",
+        "img": "service1.jpg"
+      },
+      {
+        "title": "東京23区・その近郊エリアが対象",
+        "comment": "来店・接客が不要な為、幅広いエリアでのご紹介が可能となっています。内見希望の場合は、申込手続き後に現地待合せでご案内ができます。",
+        "bottomComment": "※内見が不要な場合、成約時にギフト券を贈呈します。",
+        "img": "service2.jpg"
+      },
+      {
+        "title": "初期費用はクレジットカード対応",
+        "comment": "ご契約時の初期費用を<span class='underline'>普段お使いのクレジットカード</span>でお支払いできます。すぐに現金の用意が必要なく、ポイントも貯めることができます。",
+        "bottomComment": "※オーナー様から広告料があるお部屋に限ります。",
+        "img": "service3.jpg"
+      },
+      {
+        "title": "ご入居までしっかりサポート",
+        "comment": "対応時間は<span class='underline'>10時〜19時（水曜除く）</span>でお返事は必ず当日中にします。ご入居に向けてライフラインやネットなどの手引きもサポートします。",
+        "bottomComment": "※申込みから契約までWEBでご対応が可能です。",
+        "img": "service4.jpg"
+      }
+    ],
+    "comments": {
+      "comment1": "仲介手数料を最大0円でお届け。",
+      "comment2": "初期費用として敷金、礼金、前家賃、火災保険料等の費用が​かかります。",
+      "comment3": "その他の費用を別名目で請求や上乗せ等は一切しません​。",
+      "comment4": "他社サイトに掲載されている物件であればご紹介可能です。",
+      "comment5": "但し、一部特定の管理会社でしか扱えないお部屋がございます。こちらはご対応できません。​",
+      "comment6": "【ご注意】他の不動産会社とすでにご相談中や申込中のお部屋は対応できません。　",
+      "comment7": "その旨を共有いただけないままお話を進めてしまった場合、お客様の契約に支障をきたす場合があります。"
+    },
+    "toClients": {
+      "comments": [
+        "<span class='font-bold'>LINEで賃貸はお客様の引越しに伴う初期費用を最小限に抑えるためご自身でお部屋を探していただくセルフ型の賃貸サービスです。",
+        "お客様の中には、「まずは不動産会社に行って相談したい」<br>そう思われるお客様にはご満足いただけないかもしれません。</span>",
+        "LINEで賃貸では、今の時代に合った新しい形で賃貸サービスを提供していきたいと思っております。<br>店舗コストの削減や、来店・接客を不要とした業務のシステム化を図ることで最大限の賃貸サービスをお客様に提供します。",
+        "お問い合わせいただいた全てのお客様により良い新生活がスタートできるよう精一杯サポートさせていただきます。<br>まずはご契約いただくまで料金は一切発生しませんので、お気軽にLINEで賃貸をお試しください。"
+      ]
+    }
+  }
+}
